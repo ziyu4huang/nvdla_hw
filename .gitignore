@@ -10,3 +10,4 @@ vmod/dw_components/
 outdir/
 .nvprojectname
 tree.make
+obj_dir
